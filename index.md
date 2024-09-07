@@ -1,6 +1,7 @@
 ---
-title: noted by jgoon
+title: welcome to my brain 🧠
 created: 2024-09-07T14:39
-updated: 2024-09-07T14:40
+updated: 2024-09-07T15:03
 ---
-welcome to my brain 🧠
+### navigating noted
+🏗️ still workin on this... hang tight!
