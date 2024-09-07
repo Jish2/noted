@@ -1,0 +1,60 @@
+/* CSS Snippet for Frontmatter syntax highlighting */
+
+body {
+	background: transparent !important;
+}
+
+/* add top spacing to codeblock */
+.HyperMD-codeblock.HyperMD-codeblock-begin.HyperMD-codeblock-bg.cm-line {
+	margin-top: 0.5em !important;
+}
+
+/* fix cmd + p window */
+.prompt {
+	background-color: var(--background-primary) !important;
+}
+
+/* fix checkbox */
+.task-list-item-checkbox {
+	--checkbox-size: 16px;
+	--checkbox-color: var(--color-accent);
+	border-radius: 0.25em !important;
+	margin-inline-end: 0.375em !important;
+}
+
+/* add space after hastags */
+.cm-line:has(.cm-formatting.cm-formatting-hashtag.cm-hashtag.cm-hashtag-begin) {
+	/* .cm-hashtag.cm-hashtag-begin,
+.cm-hashtag.cm-hashtag-end { */
+	/* .cm-formatting.cm-formatting-hashtag.cm-hashtag.cm-hashtag-begin {
+  class="cm-formatting cm-formatting-hashtag 
+  cm-meta cm-tag-python"
+  class="cm-hashtag cm-hashtag-end" */
+	padding-bottom: 1em !important;
+}
+
+/* resest inline code styling */
+body {
+	--inline-code-normal: var(--color-accent);
+	--inline-code-background-dark: var(--tag-background);
+}
+
+/* add spacing below headers */
+.cm-line.HyperMD-header {
+	padding-bottom: 0.25em !important;
+}
+
+/* remove padding-top from cm-line if its after hashtag */
+.cm-line:has(.cm-formatting.cm-formatting-hashtag.cm-hashtag.cm-hashtag-begin) + .cm-line {
+	padding-top: 0 !important;
+}
+
+/* minimize newline after block quote */
+.cm-line.HyperMD-quote:not(:has(+ .cm-line.HyperMD-quote)) {
+	margin-bottom: -20px !important;
+}
+
+/* fix bold color */
+body {
+	--bold-color: var(--color-accent);
+}

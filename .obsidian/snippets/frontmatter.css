@@ -1,0 +1,30 @@
+CSS Snippet for Frontmatter syntax highlighting
+
+/* color YAML value text */
+/* this was here before...
++ span.cm-hmd-frontmatter  */
+span.cm-meta.cm-hmd-frontmatter {
+	color: #bbbbbb;
+}
+
+/* color YAML value - if it's a number
+  error?
+*/
+span.cm-number.cm-hmd-frontmatter {
+	color: #c678dd;
+}
+
+/* color YAML key text 
+  eg. aliases
+*/
+span.cm-atom.cm-hmd-frontmatter {
+	color: #e06c75;
+}
+
+/* color YAML separator text
+eg color :
+*/
+span.cm-meta.cm-hmd-frontmatter {
+	/* color: #56b6c2; */
+	color: #bbbbbb;
+}
