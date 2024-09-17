@@ -139,6 +139,8 @@
     "tcp.md": "7a5e6fded3e829025c45608cf218b569ef74ec494f56ab85c3b88c2314078a86",
     "tcp vs. udp.md": "cc8428d24c24d4821689975f9bbb62769ec71a13c4f7f246f915e511104e928f",
     "socket (python).md": "e3f82dc86a4df31cec7553741b95e6f33a10fca3fbd23988d65785a156a742f2",
-    "flip a bit.md": "e8e68550a4f29f54a62d8c287cf61601db3040003550834e9ef341ef5100bfda"
+    "flip a bit.md": "e8e68550a4f29f54a62d8c287cf61601db3040003550834e9ef341ef5100bfda",
+    "published/guides/beds/__index.md": "141e73bc7b7ee8361f29cbe7d0def5d5409401ed3a76f3454956a282b7ef628f",
+    "published/guides/beds/sheets.md": "0ac2ac0c414de0ef1b99bab38f5ba5bcd8c25d6356c9e868735a7b4db54df15e"
   }
 }
