@@ -1,8 +1,10 @@
 ---
 created: 2024-09-16T17:47
-updated: 2024-09-16T17:51
+updated: 2024-09-18T21:56
 ---
 #guide
+
+mattress cover
 
 
 ### the three pillars
