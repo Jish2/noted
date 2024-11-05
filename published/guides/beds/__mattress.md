@@ -1,6 +1,6 @@
 ---
 created: 2024-09-18T21:56
-updated: 2024-09-18T22:04
+updated: 2024-10-27T21:18
 references:
   - title: Best Mattress Topper?
     subtitle: r/buyitforlife
