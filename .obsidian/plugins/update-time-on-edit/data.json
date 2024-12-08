@@ -139,10 +139,11 @@
     "notes/acid.md": "9c69afdefab8a7ce5365f4b510a47b4d9866edc8cb56b0b0d5e75b9f23098f8d",
     "notes/atomicity.md": "fb7347538cd5087dff723291016a715a755c2f3fbd774f6200c7582d9760a72b",
     "notes/idempotency.md": "c26ab1f26fa7ef7ecca0227718c7faf45f6a25f090b1222558593ad38722c94e",
-    "notes/index.md": "ec90814cc7f0673381b8be0a60a34f9570b887619f2203cac9bd8f47dddb1382",
+    "notes/index.md": "ef6bf608502fafe91a0b359e80772538958edfc49d4e44a3643f9d4fc3dcd1c0",
     "notes/multitenancy.md": "245132dd292366b73c926aafaa8d2cc9d8e2d3fa7be5804fcd794c116c1577a0",
     "notes/socket (python).md": "e3f82dc86a4df31cec7553741b95e6f33a10fca3fbd23988d65785a156a742f2",
     "notes/tcp.md": "7a5e6fded3e829025c45608cf218b569ef74ec494f56ab85c3b88c2314078a86",
-    "notes/flip bits.md": "e8e68550a4f29f54a62d8c287cf61601db3040003550834e9ef341ef5100bfda"
+    "notes/flip bits.md": "e8e68550a4f29f54a62d8c287cf61601db3040003550834e9ef341ef5100bfda",
+    "published/guides/boba.md": "88a8fb9763eb31f4328c3905e561afc889735c70c200a71a7ba7f2a93cb0fee8"
   }
 }
