@@ -1,10 +1,11 @@
 {
-  "newFileLocation": "current",
+  "newFileLocation": "folder",
   "useTab": false,
   "tabSize": 2,
   "smartIndentList": true,
   "alwaysUpdateLinks": true,
   "attachmentFolderPath": "assets",
   "propertiesInDocument": "source",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "newFileFolderPath": "notes"
 }
