@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2024-12-08T16:36
+updated: 2024-12-08T18:34
 ---
 
 %% do the animated swap thing %%
@@ -31,3 +31,4 @@ i take great pride in my [[setup|workflow and setup]] and also love documenting 
 %% favorite tech section? %%
 
 %% book icons? %%
+
