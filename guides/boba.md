@@ -1,7 +1,7 @@
 ---
 title: guide to boba in the bay
 created: 2024-12-07T21:37
-updated: 2024-12-26T22:40
+updated: 2024-12-26T23:59
 hide:
   - Graph
   - Explorer
@@ -9,7 +9,7 @@ hide:
 ---
 
 ## disclaimers
-- my sweetness control is standard - 1, (gong cha/kft 70%)
+- my sweetness control is default-1, (gong cha/kft 70%)
 - some of these takes are extremely outdated (ordered chronologically but not dated)
 - also forgot to log boba for like 4 months.
 ## my gotos

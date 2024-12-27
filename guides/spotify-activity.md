@@ -1,7 +1,7 @@
 ---
 title: adding my spotify activity to my website
 created: 2024-12-25T17:47
-updated: 2024-12-26T20:58
+updated: 2024-12-26T23:53
 hide:
   - Graph
   - Explorer
@@ -16,7 +16,7 @@ since we'll be calling the spotify api from our server, we'll need to pick an au
 
 ![[Pasted image 20241226175910.png | spotify login flow | 500]]
 
- the [authorization code flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow) requires you to grant spotify account level access to generate an authorization code, but unfortunately since we need to generate this on the server, we won't be present to perform this auth flow. fortunately, we can perform this auth flow once, to acquire a `refresh_token` that we can perpetually refresh from the server. in this flow, you should add the relevant scopes for the endpoints you wish to use.
+ the [authorization code flow](https://developer.spotify.com/documentation/web-api/tutorials/code-flow) requires you to grant spotify account level access to generate an authorization code, but unfortunately since we need to generate this on the server, we won't be present to perform this auth flow. fortunately, we can perform this auth flow once, to acquire a `refresh_token` that we can use to perpetually refresh from the server. in this flow, you should add the relevant scopes for the endpoints you wish to use.
 ### acquiring an access token
 using the [token endpoint](https://developer.spotify.com/documentation/web-api/tutorials/refreshing-tokens), we were able to obtain a `refresh_token`  from an authorization code (which we obtained from the manual auth flow in the browser). this `refresh_token` can be used to obtain new `access_tokens`. however, the `refresh_token` isn't long-living. calling the token endpoint will occasionally return a new `refresh_token` in the response. 
 ### persisting our token
