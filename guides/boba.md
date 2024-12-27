@@ -1,7 +1,7 @@
 ---
 title: guide to boba in the bay
 created: 2024-12-07T21:37
-updated: 2024-12-26T23:59
+updated: 2024-12-27T00:02
 hide:
   - Graph
   - Explorer
@@ -49,7 +49,7 @@ hide:
 | 8.0    | chi cha         | honey osmanthus oolong               | overpriced; michelin star is a stretch                                                                             |
 | 8.5    | molly tea       | jasmine milk tea                     | a better and cheaper version of chi cha; consistently good but does not serve boba :(                              |
 
-### want to go
+## want to go
 - [ ] cha cha go
 - [ ] zero&
 - [ ] heytea
