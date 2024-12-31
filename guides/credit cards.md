@@ -1,8 +1,10 @@
 ---
 title: maximizing credit card rewards
 created: 2024-12-31T01:42
-updated: 2024-12-31T01:52
+updated: 2024-12-31T01:57
 ---
+
+heres my current credit card stack for optimizing points in each category. i optimize for max $\% \times \text{tpg}$ (citi custom cash vs amex gold for grocery would be $5 \times 1.8$ vs $4 \times 2.0$. in this comparison, since $9.0 > 8.0$, citi custom cash is better than amex gold for grocery).
 
 ## by card
 
