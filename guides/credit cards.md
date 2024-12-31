@@ -1,7 +1,11 @@
 ---
 title: maximizing credit card rewards
 created: 2024-12-31T01:42
-updated: 2024-12-31T02:07
+updated: 2024-12-31T02:09
+hide:
+  - Graph
+  - Explorer
+  - Backlinks
 ---
 
 heres my current credit card stack for optimizing points in each category. i optimize for max dollar, derived from taking $\%\text{cb} \times \text{tpg}$. the tpg valuation represents the average value per point in cents based on [maximal value from transfer partners](https://thepointsguy.com/news/new-data-driven-valuations/). 
