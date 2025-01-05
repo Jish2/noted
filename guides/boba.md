@@ -1,13 +1,13 @@
 ---
 title: guide to boba in the bay
 created: 2024-12-07T21:37
-updated: 2024-12-27T00:02
+updated: 2025-01-05T12:40
 hide:
   - Graph
   - Explorer
   - Backlinks
 ---
-
+#food
 ## disclaimers
 - my sweetness control is default-1, (gong cha/kft 70%)
 - some of these takes are extremely outdated (ordered chronologically but not dated)
