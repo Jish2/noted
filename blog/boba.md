@@ -1,7 +1,7 @@
 ---
 title: guide to boba in the bay
 created: 2024-12-07T21:37
-updated: 2025-01-19T18:12
+updated: 2025-01-19T20:18
 hide:
   - Graph
   - Explorer
@@ -23,12 +23,14 @@ hide:
 ## boba log
 (newest at top)
 
-| rating | boba shop       | drink                                | description                                                                                                        |
+| rating | boba shop       | drink                                | review                                                                                                             |
 | ------ | --------------- | ------------------------------------ | ------------------------------------------------------------------------------------------------------------------ |
 | 9.5    | heytea          | coconut mango boom                   | need to try everything they have                                                                                   |
 | 3.0    | yifang          | brown sugar matcha latte             | it was so thick for no reason                                                                                      |
 | 8.5    | molly tea       | jasmine milk tea                     | a better and cheaper version of chi cha; consistently good but does not serve boba :(                              |
+| 7.5    | tancha          | milk team creamio                    | milk smoothie with icecream, good if you like smoothie texture                                                     |
 | 8.0    | chi cha         | honey osmanthus oolong               | overpriced; michelin star is a stretch                                                                             |
+| 6.0    | tpump           | rose vanilla green milk tpea         | i like their boba but their tea flavor falls under the abg boba category                                           |
 | 5.0    | mr sun          | mango milk tea                       | the texture of the homemade boba has been consistently letting me down                                             |
 | 8.0    | 3catea          | avomango                             | runs a little sour but is an acquired taste                                                                        |
 | 7.0    | 7leaves         | mung bean                            | was a unique flavor to me                                                                                          |
