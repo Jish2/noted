@@ -26,7 +26,7 @@ most recently, ive been diving into //distributed systems//. i love starting and
 
 outside of work, you can catch me //drinking boba//🧋 and //bouldering//🗿
 
-i take great pride in my [[setup|workflow and setup]] and also love documenting everything ive ever done in [guides](/guides). this website is also a collection of my [[notes]]. feel free to take a look around, or checkout the [source](https://github.com/Jish2/noted)!
+i take great pride in my [[setup|workflow and setup]] and also love documenting things i do in [blog](/blog). this website is also a collection of my [[notes]]. feel free to take a look around, or checkout the [source](https://github.com/Jish2/noted)!
 
 %% favorite tech section? %%
 
