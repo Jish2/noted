@@ -65,3 +65,23 @@ c
 - [ ] cha cha go
 - [ ] zero&
 - [ ] moon tea
+
+
+<style>
+  table {
+    margin: 0rem !important;
+    padding: 0rem !important;
+  }
+
+  td:first-of-type, th:first-of-type {
+    min-width: auto !important;
+  }
+
+  td:nth-of-type(3), th:nth-of-type(3) {
+    min-width: 100px !important;
+  }
+
+  td:nth-of-type(4), th:nth-of-type(4) {
+    min-width: 240px !important;
+  }
+</style>
