@@ -1,7 +1,7 @@
 ---
 title: guide to boba in the bay
 created: 2024-12-07T21:37
-updated: 2025-01-05T12:40
+updated: 2025-01-19T17:19
 hide:
   - Graph
   - Explorer
@@ -48,6 +48,7 @@ hide:
 | 5.0    | mr sun          | mango milk tea                       | the texture of the homemade boba has been consistently letting me down                                             |
 | 8.0    | chi cha         | honey osmanthus oolong               | overpriced; michelin star is a stretch                                                                             |
 | 8.5    | molly tea       | jasmine milk tea                     | a better and cheaper version of chi cha; consistently good but does not serve boba :(                              |
+| 9.5    | molly tea       | coconut mango boom                   | need to try everything they have                                                                                   |
 
 ## want to go
 - [ ] cha cha go
