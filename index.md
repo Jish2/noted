@@ -16,13 +16,15 @@ updated: 2025-01-19T17:02
 
 hey, i'm //josh goon//!
 
-early in 2024 at //19//, i dropped out of [uiuc](https://illinois.edu/) to join [tesla](https://www.tesla.com/).
+early in 2024 at //19//, i dropped out of //icon[uiuc.png]// [uiuc](https://illinois.edu/) to join //icon[tesla.svg]// [tesla](https://www.tesla.com/).
 
 im super interested in //productivity//, currently focusing on //developer experience// and //tooling//.
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
 most recently, ive been diving into //distributed systems//. i love starting and never finishing books like [ddia, grokking](https://github.com/Jish2/system-design/?tab=readme-ov-file#books), and [engineering blogs](https://github.com/Jish2/system-design/?tab=readme-ov-file#engineering-blogs).
+
+%% TODO: hover-able/expandable content %%
 
 outside of work, you can catch me //drinking boba//🧋 and //bouldering//🗿
 
