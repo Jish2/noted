@@ -14,6 +14,15 @@ updated: 2025-03-25T13:04
 
 %% do the animated swap thing %%
 
+//polaroid
+![[mountain.jpeg | mt. umumumum]]
+![[dog.jpg]]
+![[devtool.jpg | 'devtool']]
+![[dodgers.jpg]]
+![[dog-2.jpg]]
+![[boston-dynamics.JPG | my type of dog]]
+polaroid//
+
 hey, i'm //josh goon//!
 
 early in 2024 at //19//, i dropped out of //icon[uiuc.png]// [uiuc](https://illinois.edu/) to join //icon[tesla.svg]// [tesla](https://www.tesla.com/).
