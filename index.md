@@ -16,11 +16,11 @@ updated: 2025-03-27T23:14
 
 //polaroid
 ![[mountain.jpeg | mt. umumumum]]
-![[dog.jpg]]
-![[devtool.jpg | 'devtool']]
-![[dodgers.jpg]]
 ![[dog-2.jpg]]
 ![[boston-dynamics.JPG | my type of dog]]
+![[devtool.jpg | 'devtool']]
+![[dog.jpg]]
+![[dodgers.jpg]]
 polaroid//
 
 hey, i'm //josh goon//!
