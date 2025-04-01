@@ -9,18 +9,13 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-03-28T10:55
+updated: 2025-03-30T11:01
 ---
 
 %% do the animated swap thing %%
 
 //polaroid
-![[mountain.jpeg | mt. umumumum]]
-![[dog-2.jpg]]
-![[boston-dynamics.JPG | my type of dog]]
-![[devtool.jpg | 'devtool']]
-![[dog.jpg]]
-![[dodgers.jpg]]
+![[mountain.jpeg | mt. umumumum | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | my type of dog | 100]]![[devtool.jpg | 'devtool' | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
 hey, i'm //josh goon//!
@@ -31,7 +26,7 @@ im super interested in //productivity//, currently focusing on //developer exper
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
-most recently, ive been diving into //distributed systems//. i love starting and never finishing books like //icon[ddia.jpg]// [ddia, grokking](https://github.com/Jish2/system-design/?tab=readme-ov-file#books), and [engineering blogs](https://github.com/Jish2/system-design/?tab=readme-ov-file#engineering-blogs).
+most recently, i've been diving into //distributed systems//. i love starting and never finishing books like //icon[ddia.jpg]// [ddia, grokking](https://github.com/Jish2/system-design/?tab=readme-ov-file#books), and [engineering blogs](https://github.com/Jish2/system-design/?tab=readme-ov-file#engineering-blogs).
 
 %% TODO: hover-able/expandable content %%
 
