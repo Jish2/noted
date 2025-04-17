@@ -18,7 +18,7 @@ updated: 2025-03-30T11:01
 ![[mountain.jpeg | mt. umumumum | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | my type of dog | 100]]![[devtool.jpg | 'devtool' | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
-hey, i'm //josh goon//!
+hey, i'm //josh goon//! i'm based in cupertino, ca.
 
 early in 2024 at //19//, i dropped out of //icon[uiuc.png]// [uiuc](https://illinois.edu/) to join //icon[tesla.svg]// [tesla](https://www.tesla.com/).
 
