@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-04-17T16:01
+updated: 2025-05-08T20:53
 ---
 
 %% do the animated swap thing %%
@@ -30,7 +30,7 @@ most recently, i've been diving into //distributed systems//. i love starting an
 
 %% TODO: hover-able/expandable content %%
 
-outside of work, you can catch me //drinking boba//🧋 and //bouldering//🗿
+outside of work, you can catch me //drinking boba// and //bouldering//
 
 i take great pride in my [[setup|workflow and setup]] and also love documenting things i do in [blog](/blog). this website is also a collection of my [[notes]]. feel free to take a look around, or checkout the [source](https://github.com/Jish2/noted)!
 
