@@ -13,7 +13,7 @@ i primarily use 5 tools:
 ## hardware
 ### m3 mac pro
 glorified sticker collector
-![[IMG_0590.png | 400]]
+![[laptop.png| 400]]
 ### keyboards
 im a mac keyboard main at heart, but at my home setup opt for a dactyl manuform 5x6 with kailh box whites. my on the go keyboard is a corne v3 3x6 with tangerine oranges.
 
