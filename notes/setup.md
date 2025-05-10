@@ -1,8 +1,7 @@
 ---
 created: 2025-03-27T14:25
-updated: 2025-05-08T21:43
+updated: 2025-05-09T23:25
 ---
-
 ## primary workflow
 i primarily use 5 tools:
 - [alfred](https://www.alfredapp.com/), universal command pallete
