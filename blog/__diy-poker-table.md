@@ -1,6 +1,6 @@
 ---
 title: building my own poker table
-updated: 2025-05-19T20:27
+updated: 2025-05-19T20:39
 created: 2025-05-19T20:21
 ---
 #diy
@@ -10,8 +10,9 @@ i recently bought a dinky poker table off fb marketplace. i cant afford to buy a
 - removable mat
 - foldable
 
-
 ## research
 
 ### sizing
 ### foldability
+i love the compactness and portability of the triton 10 seat table. so, for this build i want to use legs similar to this
+![[Pasted image 20250519203838.png | 300]]
