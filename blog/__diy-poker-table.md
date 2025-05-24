@@ -1,6 +1,6 @@
 ---
 title: building my own poker table
-updated: 2025-05-19T20:39
+updated: 2025-05-23T18:37
 created: 2025-05-19T20:21
 ---
 #diy
