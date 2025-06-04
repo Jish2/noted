@@ -1,4 +1,43 @@
 ---
+updated: 2025-06-04T13:46
+created: 2025-05-20T15:31
+---
+----
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$--
 created: 2025-03-28T20:52
 updated: 2025-05-28T15:19
 ---
