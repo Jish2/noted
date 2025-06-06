@@ -1,7 +1,7 @@
 ---
 title: maximizing credit card rewards
 created: 2024-12-31T01:42
-updated: 2025-05-19T20:22
+updated: 2025-06-05T19:53
 hide:
   - Graph
   - Explorer
