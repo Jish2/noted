@@ -14,4 +14,5 @@ collection of links, videos, articles, books, resources that i found cool!
 | [A guide to home row mods](https://precondition.github.io/home-row-mods#scga)                                                           | keyboards     |
 | [A Simple Introduction to Centroid Decomposition \| A Simple Blog](https://robert1003.github.io/2020/01/16/centroid-decomposition.html) | leetcode      |
 | [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)                                                    | productivity  |
-| [you are what you launch: how software became a lifestyle brand \| Omer](https://omeru.bearblog.dev/lifestyle/?utm_source=tldrwebdev)                                                      | productivity  |
+| [you are what you launch: how software became a lifestyle brand \| Omer](https://omeru.bearblog.dev/lifestyle/?utm_source=tldrwebdev)   | productivity  |
+| [How I run a company with ADHD](https://www.andrewaskins.com/how-i-run-a-company-with-adhd/)                                                      | productivity  |
