@@ -26,7 +26,7 @@ i'm super interested in //productivity//, currently focusing on //developer expe
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
-most recently, i've been diving into //distributed systems//. i love starting and never finishing books like //icon[ddia.jpg]// [ddia, grokking](https://github.com/Jish2/system-design/?tab=readme-ov-file#books), and [engineering blogs](https://github.com/Jish2/system-design/?tab=readme-ov-file#engineering-blogs).
+most recently, i've been diving into //distributed systems//. i love starting and never finishing books like //icon![[ddia.jpg | 24]]// [ddia, grokking](https://github.com/Jish2/system-design/?tab=readme-ov-file#books), and [engineering blogs](https://github.com/Jish2/system-design/?tab=readme-ov-file#engineering-blogs).
 
 %% TODO: hover-able/expandable content %%
 
