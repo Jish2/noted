@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-07-25T16:06
+updated: 2025-07-25T16:26
 ---
 
 %% do the animated swap thing %%
@@ -20,7 +20,7 @@ polaroid//
 
 hey, i'm //josh goon//! i'm based in cupertino, ca.
 
-early in 2024 at //19//, i dropped out of //icon![[uiuc.png | 24]]// [uiuc](https://illinois.edu/) to join //icon![[tesla.svg | 24]]// [tesla](https://www.tesla.com/). now, i'm building at //icon![[roblox.jpg | 24]]// [roblox](https://corp.roblox.com/)
+early in 2024 at //19//, i dropped out of //icon![[uiuc.png | 24]]// [uiuc](https://illinois.edu/) to join //icon![[tesla.svg | 24]]// [tesla](https://www.tesla.com/). now, i'm building at //icon![[roblox.jpg | 24]]// [roblox](https://corp.roblox.com/).
 
 i'm super interested in //productivity//, currently focusing on //developer experience// and //tooling//.
 
