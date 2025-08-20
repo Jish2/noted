@@ -9,13 +9,13 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-07-28T14:59
+updated: 2025-08-20T10:20
 ---
 
 %% do the animated swap thing %%
 
 //polaroid
-![[mountain.jpeg | mt. umumumum | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | my type of dog | 100]]![[devtool.jpg | 'devtool' | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
+![[mountain.jpeg | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | 100]]![[devtool.jpg | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
 hey, i'm //josh goon//! i'm based in cupertino, ca.
