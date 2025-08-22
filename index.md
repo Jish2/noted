@@ -18,11 +18,12 @@ updated: 2025-08-22T15:58
 ![[mountain.jpeg | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | 100]]![[devtool.jpg | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
-hey, i'm //josh goon//! i'm 21 based in cupertino, ca. my story:
+hey, i'm //josh goon//! i'm 21 based in cupertino, ca. 
 
-- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19//
-- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla
-- kubernetes at //icon![[roblox.jpg | 24]]// roblox
+milestones:
+- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19// //right (dec 2023)//
+- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla //right (jan 2024 - july 2025)//
+- kubernetes at //icon![[roblox.jpg | 24]]// roblox //right (aug 2025 - present)//
 
 i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking boba// and //bouldering//.
 
