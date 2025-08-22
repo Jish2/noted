@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-08-22T15:39
+updated: 2025-08-22T15:54
 ---
 
 %% do the animated swap thing %%
@@ -18,7 +18,11 @@ updated: 2025-08-22T15:39
 ![[mountain.jpeg | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | 100]]![[devtool.jpg | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
-hey, i'm //josh goon//! i'm 21 based in cupertino, ca. at //19//, i dropped out of //icon![[uiuc.png | 24]]// [uiuc](https://illinois.edu/) to join //icon![[tesla.svg | 24]]// [tesla](https://www.tesla.com/). now, i'm building at //icon![[roblox.jpg | 24]]// [roblox](https://corp.roblox.com/).
+hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
+
+- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19//
+- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla
+- kubernetes at //icon![[roblox.jpg | 24]]// roblox
 
 i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking boba// and //bouldering//.
 
@@ -26,7 +30,7 @@ i'm super interested in //productivity//, with a focus on //developer experience
 
 %% TODO: hover-able/expandable content %%
 
-quick links [[setup]] [[bookmarks]] [[notes]]
+quick links [[setup]] [[bookmarks]] [[notes]] [[blog]]
 
 %% favorite tech section? %%
 
