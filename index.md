@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-08-22T15:54
+updated: 2025-08-22T15:58
 ---
 
 %% do the animated swap thing %%
@@ -18,7 +18,7 @@ updated: 2025-08-22T15:54
 ![[mountain.jpeg | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | 100]]![[devtool.jpg | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
-hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
+hey, i'm //josh goon//! i'm 21 based in cupertino, ca. my story:
 
 - dropped out of //icon![[uiuc.png | 24]]// uiuc at //19//
 - cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla
