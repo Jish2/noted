@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-08-22T16:22
+updated: 2025-08-26T12:29
 ---
 
 %% do the animated swap thing %%
@@ -23,7 +23,7 @@ hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 milestones:
 - dropped out of //icon![[uiuc.png | 24]]// uiuc at //19// //right (dec 2023)//
 - cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla //right (jan 2024 - july 2025)//
-- kubernetes at //icon![[roblox.jpg | 24]]// roblox //right (aug 2025 - present)//
+-  infra/k8s at //icon![[roblox.jpg | 24]]// roblox //right (aug 2025 - present)//
 
 i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking boba// and //bouldering//.
 
