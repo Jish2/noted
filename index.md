@@ -40,7 +40,7 @@ by the years:
 <span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2023</span>
 <br />
 
-- built and grew [hottake.gg](https://hottake.gg/post/63b72bb898829f4733db93ff) to 5k users
+- built and grew //icon![[hottake.svg | 24]]// [hottake.gg](https://hottake.gg/post/63b72bb898829f4733db93ff) to 5k users
 <span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2022</span>
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
