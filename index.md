@@ -18,20 +18,38 @@ updated: 2025-08-26T12:29
 ![[mountain.jpeg | 100]]![[dog-2.jpg | 100]]![[boston-dynamics.JPG | 100]]![[devtool.jpg | 100]]![[dog.jpg | 100]]![[dodgers.jpg | 100]]
 polaroid//
 
-hey, i'm //josh goon//! i'm 21 based in cupertino, ca. 
+hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 
-milestones:
-- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19// //right (dec 2023)//
-- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla //right (jan 2024 - july 2025)//
--  infra/k8s at //icon![[roblox.jpg | 24]]// roblox //right (aug 2025 - present)//
+%% <strong style="font-size:1.5rem;">Joshua Goon</strong> %%
 
 i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking boba// and //bouldering//.
+
+by the years:
+
+<p style="margin:0; margin-top: -2rem;">&nbsp;</p>
+
+- infra/k8s at //icon![[roblox.jpg | 24]]// roblox
+<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2025</span>
+<br />
+
+- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla
+<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2024</span>
+<br />
+
+- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19//
+<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2023</span>
+<br />
+
+- built and grew [hottake.gg](https://hottake.gg/post/63b72bb898829f4733db93ff) to 5k users
+<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2022</span>
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
 %% TODO: hover-able/expandable content %%
 
-quick links [[setup]] [[bookmarks]] [[notes]] [[blog]]
+<br />
+
+checkout my [[setup]] or [[bookmarks]] 
 
 %% favorite tech section? %%
 
