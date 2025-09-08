@@ -1,5 +1,5 @@
 ---
-updated: 2025-08-22T15:38
+updated: 2025-09-05T14:31
 created: 2025-05-20T15:31
 ---
 🚧 wip
@@ -18,6 +18,7 @@ collection of links, videos, articles, books, resources that i found cool!
 | [Getting Past Procastination](https://spectrum.ieee.org/getting-past-procastination)                                                    | productivity  |
 | [you are what you launch: how software became a lifestyle brand \| Omer](https://omeru.bearblog.dev/lifestyle/?utm_source=tldrwebdev)   | productivity  |
 | [How I run a company with ADHD](https://www.andrewaskins.com/how-i-run-a-company-with-adhd/)                                            | productivity  |
+| [The Ambiguous Zone - Ben Northrop](https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php)                                     | productivity  |
 
 ### books
 
