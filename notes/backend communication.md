@@ -10,7 +10,7 @@ traditionally, a backend can only listen to a frontend
 - [[server sent events (SSE)]]
 - [[Websockets]]
 - [[Polling]]
-- [[PubSub]]???
+- [[pubub]]???
 
 ## choice [^fn1]
 ![[Pasted image 20240104154836.png]]

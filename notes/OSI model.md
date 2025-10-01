@@ -1,8 +1,9 @@
 ---
 created: 2024-03-10T15:55
-updated: 2024-03-10T16:08
+updated: 2025-09-30T18:25
 ---
 #networking 
+open systems interconnection model, breaks down how networks communicate into 7 layers
 ### 7. Application, [Data]
 High-level protocols such as for resource sharing or remote file access, e.g. [HTTP](https://en.wikipedia.org/wiki/Hypertext_Transfer_Protocol "Hypertext Transfer Protocol").
 ### 6. Presentation, [Data]

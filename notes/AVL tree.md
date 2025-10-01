@@ -1,10 +1,10 @@
 ---
 created: 2024-02-24T18:13
-updated: 2024-02-24T18:18
+updated: 2025-09-30T18:23
 ---
 #dsa/tree
 
-balanced bst
+[[balanced bst]]
 
 at most, and avl will have 1 difference in level
 balanced by rotating the tree when an imbalance is detected (Nodes have `height`)
