@@ -1,6 +1,11 @@
 ---
 created: 2025-03-27T14:25
 updated: 2025-09-05T11:36
+hide:
+  - ContentMeta
+  - Graph
+  - Backlinks
+  - Explorer
 ---
 ## software
 i primarily use 5 tools:
