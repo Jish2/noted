@@ -13,11 +13,11 @@ merge: deal with them all at once
 
 with a merge, feature branch commit timelines are intersected?
 
-![[Pasted image 20240223074152.png]]
+![[git rebase.png]]
 
 better vis
 merge:
-![[Pasted image 20240223081418.png|300]]
+![[git merge.png|300]]
 
 rebase
-![[Pasted image 20240223081431.png|300]]
+![[git rebase 2.png|300]]

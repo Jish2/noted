@@ -7,6 +7,6 @@ compiler is used to convert high-level programming language code into [[machine 
 assembler converts assembly level language code into machine language code.
 
 ### example: c++
-![[Pasted image 20240622200257.png | 500]]
+![[compilation steps.png| 500]]
 
 the c++ compiler compiles to assembly, so an assembler is needed to convert it to machine language (an executable)

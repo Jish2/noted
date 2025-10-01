@@ -6,4 +6,4 @@ created: 2025-08-11T11:39
 publishers send message to topic, which distributes it to [[Message Queue]]
 [[Message Queue]] send it to subscribers
 
-![[Pasted image 20231226160055.png]]
+![[pubsub.png]]

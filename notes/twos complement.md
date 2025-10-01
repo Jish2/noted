@@ -6,7 +6,7 @@ updated: 2024-06-29T19:41
 method of representing positive or negative integer
 +1 if ones complement
 allows for more efficient addition between negative and positive numbers
-![[Pasted image 20240629193602.png|200]]
+![[twos compliment.png|200]]
 
 
 ## How to perform

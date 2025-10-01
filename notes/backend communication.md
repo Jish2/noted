@@ -17,7 +17,7 @@ traditionally, a backend can only listen to a frontend
 - [[pubsub]]???
 
 ## choice [^fn1]
-![[Pasted image 20240104154836.png]]
+![[server communication comparison.png]]
 
 ## references
 [^fn1]: [Don't Use Websockets by Code with Ryan](https://www.youtube.com/watch?v=6QnTNKOJk5A)

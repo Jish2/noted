@@ -6,7 +6,7 @@ created: 2024-07-17T20:55
 container orchestration system
 
 ### heirarchy
-![[Pasted image 20250629182552.png]]
+![[kubernetes diagram.png]]
 - cluster
     - [[kubernetes control plane|control plane]]
     - [[kubernetes node|node]]
