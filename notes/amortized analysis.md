@@ -1,8 +1,9 @@
 ---
 created: 2024-04-02T21:51
-updated: 2025-09-30T15:16
+updated: 2025-09-30T19:45
 ---
 #cs/analysis #dsa
+
 average complexity used when operation has expensive and cheap case
 
 *think* [[expected value]] for time complexity
