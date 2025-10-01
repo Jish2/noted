@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-01T11:17
+updated: 2025-10-01T15:14
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -7,8 +7,6 @@ hide:
   - Backlinks
   - Explorer
 ---
-🚧 wip
-
 collection of links, videos, articles, books, resources that i found cool!
 
 ### articles
@@ -27,7 +25,12 @@ collection of links, videos, articles, books, resources that i found cool!
 
 ### books
 
-| cover               | title                                 | tags          |
-| ------------------- | ------------------------------------- | ------------- |
-| ![[ddia.jpg \| 72]] | designing data intensive applications | system-design |
-|                     | die with zero                         | self-help     |
+| cover                                      | title                                                                                                         | tags                | read |
+| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| ![[ddia.jpg \| 72]]                        | Designing Data Intensive Applications                                                                         | system-design       | 100% |
+| ![[die with zero.png \| 72]]               | Die With Zero                                                                                                 | self-help           | 12%  |
+|                                            | [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | systems-programming | 0%   |
+| ![[operating systems.png \| 72]]           | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                               | systems-programming | 0%   |
+| ![[a system for writing.png\| 72]] | A System For Writing                                                                                          | productivity        | 0%   |
+| ![[getting things done.png\| 72]] | Getting Things Done                                                                                           | productivity        | 0%   |
+
