@@ -1,3 +1,7 @@
+---
+updated: 2025-09-30T19:16
+created: 2025-09-30T19:08
+---
 #meta/moc #system-design 
 
 methods for clients to listen backend
@@ -10,7 +14,7 @@ traditionally, a backend can only listen to a frontend
 - [[server sent events (SSE)]]
 - [[Websockets]]
 - [[Polling]]
-- [[pubub]]???
+- [[pubsub]]???
 
 ## choice [^fn1]
 ![[Pasted image 20240104154836.png]]
