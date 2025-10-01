@@ -1,6 +1,11 @@
 ---
 updated: 2025-09-05T14:31
 created: 2025-05-20T15:31
+hide:
+  - ContentMeta
+  - Graph
+  - Backlinks
+  - Explorer
 ---
 🚧 wip
 
