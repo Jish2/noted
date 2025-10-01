@@ -1,3 +1,7 @@
+---
+updated: 2025-09-30T20:05
+created: 2025-09-30T19:08
+---
 #language/javascript 
 
 alternative syntax for defining functions
@@ -30,5 +34,5 @@ const bar: Bar = (param) => { return param; };
 const foobar = (param: int): int => { return param; };
 ```
 
-#### caveats
+### caveats
 - no [[hoisting]] compared to `function` keyword defined functions
