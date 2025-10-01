@@ -2,7 +2,7 @@
 created: 2024-12-09T14:29
 updated: 2024-12-09T14:29
 ---
-#javascript
+#language/javascript
 
 use `controller.abort()` to abort a fetch (mid call)
 

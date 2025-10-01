@@ -1,4 +1,4 @@
-#javascript 
+#language/javascript 
 
 alternative syntax for defining functions
 

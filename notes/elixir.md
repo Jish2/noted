@@ -2,7 +2,7 @@
 created: 2025-02-14T14:48
 updated: 2025-09-30T17:02
 aliases:
-  - "#elixir"
+  - "#language/elixir"
 ---
 #languages/elixir 
 dynamically typed, functional language

@@ -2,7 +2,7 @@
 created: 2024-03-12T20:52
 updated: 2024-03-12T21:13
 ---
-#python 
+#language/python 
 kv store in python
 
 ## valid keys

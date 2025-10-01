@@ -1,4 +1,4 @@
-#python
+#language/python
 
 anaconda is a python dist
 

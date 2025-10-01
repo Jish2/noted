@@ -2,7 +2,7 @@
 created: 2024-02-23T20:56
 updated: 2024-02-23T20:58
 ---
-#java
+#language/java
 
 use `int` if you can, if can be `null` or used as an Object e.g. Generics, use `Integer`
 
