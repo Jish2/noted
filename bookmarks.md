@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-01T15:14
+updated: 2025-10-02T10:10
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -22,15 +22,16 @@ collection of links, videos, articles, books, resources that i found cool!
 | [you are what you launch: how software became a lifestyle brand \| Omer](https://omeru.bearblog.dev/lifestyle/?utm_source=tldrwebdev)   | productivity  |
 | [How I run a company with ADHD](https://www.andrewaskins.com/how-i-run-a-company-with-adhd/)                                            | productivity  |
 | [The Ambiguous Zone - Ben Northrop](https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php)                                     | productivity  |
+| [What Are Transaction Tokens? Comparing Them to Phantom Tokens](https://curity.io/blog/transaction-tokens-new-phantom-tokens/)          | auth          |
 
 ### books
 
-| cover                                      | title                                                                                                         | tags                | read |
-| ------------------------------------------ | ------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
-| ![[ddia.jpg \| 72]]                        | Designing Data Intensive Applications                                                                         | system-design       | 100% |
-| ![[die with zero.png \| 72]]               | Die With Zero                                                                                                 | self-help           | 12%  |
-|                                            | [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | systems-programming | 0%   |
-| ![[operating systems.png \| 72]]           | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                               | systems-programming | 0%   |
+| cover                              | title                                                                                                         | tags                | read |
+| ---------------------------------- | ------------------------------------------------------------------------------------------------------------- | ------------------- | ---- |
+| ![[ddia.jpg \| 72]]                | Designing Data Intensive Applications                                                                         | system-design       | 100% |
+| ![[die with zero.png \| 72]]       | Die With Zero                                                                                                 | self-help           | 12%  |
+|                                    | [What Every Programmer Should Know About Memory](https://people.freebsd.org/~lstewart/articles/cpumemory.pdf) | systems-programming | 0%   |
+| ![[operating systems.png \| 72]]   | [Operating Systems: Three Easy Pieces](https://pages.cs.wisc.edu/~remzi/OSTEP/)                               | systems-programming | 0%   |
 | ![[a system for writing.png\| 72]] | A System For Writing                                                                                          | productivity        | 0%   |
-| ![[getting things done.png\| 72]] | Getting Things Done                                                                                           | productivity        | 0%   |
+| ![[getting things done.png\| 72]]  | Getting Things Done                                                                                           | productivity        | 0%   |
 
