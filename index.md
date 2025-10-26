@@ -9,7 +9,7 @@ hide:
   - Explorer
   - PageTitle
 created: 2024-09-07T14:39
-updated: 2025-08-26T12:29
+updated: 2025-10-26T14:12
 ---
 
 %% do the animated swap thing %%
@@ -22,13 +22,13 @@ hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 
 %% <strong style="font-size:1.5rem;">Joshua Goon</strong> %%
 
-i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking boba// and //bouldering//.
+i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking ~~boba~~ matcha//, playing poker, and //bouldering//.
 
 by the years:
 
 <p style="margin:0; margin-top: -2rem;">&nbsp;</p>
 
-- infra/k8s at //icon![[roblox.jpg | 24]]// roblox
+- agentic infra/k8s at //icon![[roblox.jpg | 24]]// roblox
 <span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2025</span>
 <br />
 
