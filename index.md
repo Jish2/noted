@@ -22,7 +22,7 @@ hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 
 i'm super interested in //productivity//, with a focus on //developer experience// and //tooling// ([[setup]]). outside of work, you can catch me trying new matchas, playing poker, and bouldering.
 
-most recently, [[diy pants|i'm attempting to design and make my own pants]].
+most recently, [[diy pants|i'm making my own pants]].
 
 <style>
   .exp-list { width: 100%; margin-top: 0.75rem; }
