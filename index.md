@@ -35,6 +35,7 @@ most recently, [[diy pants|i'm trying to make my own pants]].
   .exp-right { display: flex; align-items: center; gap: 0.75rem; }
   .exp-date { color: #6b7280; padding-right: 0.5rem;˝˝˝ }
   .exp-item:hover { background: color-mix(in srgb, var(--dark) 8%, transparent); transition: background 0.2s ease; }
+  .page-divider { margin-top: 0rem; }
 </style>
 
 <div class="exp-list" role="list">
