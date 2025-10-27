@@ -1,6 +1,7 @@
 ---
 created: 2025-04-17T16:50
 updated: 2025-04-20T13:34
+draft: true
 ---
 - [ ] get faang offer rescinded but have 3 backups
 - [ ] get into yc but reject it
