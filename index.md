@@ -86,7 +86,7 @@ most recently, [[diy pants|i'm making my own pants]].
       <img class="exp-logo" alt="Hottake" src="/assets/icons/hottake.svg" />
       <span class="exp-texts">
         <span class="exp-name"><a href="https://hottake.gg/post/63b72bb898829f4733db93ff">hottake.gg</a></span>
-        <span class="exp-role">built and grew to 5k users</span>
+        <span class="exp-role">built & grew to 5k users</span>
       </span>
     </span>
     <span class="exp-right">
