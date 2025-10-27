@@ -22,26 +22,80 @@ hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 
 %% <strong style="font-size:1.5rem;">Joshua Goon</strong> %%
 
-i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me //drinking ~~boba~~ matcha//, playing poker, and //bouldering//.
+i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me drinking matcha, playing poker, and bouldering.
 
-by the years:
+in my latest project, [[diy pants|i tried making my own pants]].
 
-<p style="margin:0; margin-top: -2rem;">&nbsp;</p>
 
-- agentic infra/k8s at //icon![[roblox.jpg | 24]]// roblox
-<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2025</span>
-<br />
+<style>
+  .exp-list { width: 100%; margin-top: 0.75rem; }
+  .exp-item { padding: 0 0.25rem; display: flex; align-items: center; justify-content: space-between; width: 100%; gap: 0.5rem; box-sizing: border-box; }
+  .exp-list hr { margin: 0; }
+  .exp-left { display: flex; align-items: center; gap: 0.5rem; }
+  .exp-logo { width: 20px; height: 20px; border-radius: 0.25rem; object-fit: contain; }
+  .exp-texts { display: flex; align-items: center; gap: 0.4rem; }
+  .exp-role { color: #6b7280; }
+  .exp-right { display: flex; align-items: center; gap: 0.75rem; }
+  .exp-date { color: #6b7280; padding-right: 0.5rem;˝˝˝ }
+  .exp-item:hover { background: color-mix(in srgb, var(--dark) 8%, transparent); transition: background 0.2s ease; }
+</style>
 
-- cost optimizations with cad at //icon![[tesla.svg | 24]]// tesla
-<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2024</span>
-<br />
+<div class="exp-list" role="list">
+  <div class="exp-item" role="listitem">
+    <span class="exp-left">
+      <img class="exp-logo" alt="Roblox" src="/assets/icons/roblox.jpg" />
+      <span class="exp-texts">
+        <span class="exp-name"><a href="https://www.roblox.com">roblox</a></span>
+        <span class="exp-role">agentic infra/k8s</span>
+      </span>
+    </span>
+    <span class="exp-right">
+      <span class="exp-date">2025</span>
+    </span>
+  </div>
+  <hr />
 
-- dropped out of //icon![[uiuc.png | 24]]// uiuc at //19//
-<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2023</span>
-<br />
+  <div class="exp-item" role="listitem">
+    <span class="exp-left">
+      <img class="exp-logo" alt="Tesla" src="/assets/icons/tesla.svg" />
+      <span class="exp-texts">
+        <span class="exp-name"><a href="https://www.tesla.com">tesla</a></span>
+        <span class="exp-role">cost optimizations with cad</span>
+      </span>
+    </span>
+    <span class="exp-right">
+      <span class="exp-date">2024</span>
+    </span>
+  </div>
+  <hr />
 
-- built and grew //icon![[hottake.svg | 24]]// [hottake.gg](https://hottake.gg/post/63b72bb898829f4733db93ff) to 5k users
-<span style="position: absolute; color: var(--gray); font-size: 0.8rem; top: -1.25rem; left: 0;  text-transform: uppercase;">2022</span>
+  <div class="exp-item" role="listitem">
+    <span class="exp-left">
+      <img class="exp-logo" alt="UIUC" src="/assets/icons/uiuc.png" />
+      <span class="exp-texts">
+        <span class="exp-name"><a href="https://illinois.edu">uiuc</a></span>
+        <span class="exp-role">dropped out at 19</span>
+      </span>
+    </span>
+    <span class="exp-right">
+      <span class="exp-date">2023</span>
+    </span>
+  </div>
+  <hr />
+
+  <div class="exp-item" role="listitem">
+    <span class="exp-left">
+      <img class="exp-logo" alt="Hottake" src="/assets/icons/hottake.svg" />
+      <span class="exp-texts">
+        <span class="exp-name"><a href="https://hottake.gg/post/63b72bb898829f4733db93ff">hottake.gg</a></span>
+        <span class="exp-role">built and grew to 5k users</span>
+      </span>
+    </span>
+    <span class="exp-right">
+      <span class="exp-date">2022</span>
+    </span>
+  </div>
+</div>
 
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
