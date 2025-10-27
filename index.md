@@ -20,12 +20,9 @@ polaroid//
 
 hey, i'm //josh goon//! i'm 21 based in cupertino, ca.
 
-%% <strong style="font-size:1.5rem;">Joshua Goon</strong> %%
+i'm super interested in //productivity//, with a focus on //developer experience// and //tooling// ([[setup]]). outside of work, you can catch me trying new matchas, playing poker, and bouldering.
 
-i'm super interested in //productivity//, with a focus on //developer experience// and //tooling//. outside of work, you can catch me drinking matcha, playing poker, and bouldering.
-
-in my latest project, [[diy pants|i tried making my own pants]].
-
+most recently, [[diy pants|i'm trying to make my own pants]].
 
 <style>
   .exp-list { width: 100%; margin-top: 0.75rem; }
@@ -100,10 +97,6 @@ in my latest project, [[diy pants|i tried making my own pants]].
 %% insert image of license, inline image -> hover to blow up (amazon style) %%
 
 %% TODO: hover-able/expandable content %%
-
-<br />
-
-checkout my [[setup]] or [[bookmarks]] 
 
 %% favorite tech section? %%
 
