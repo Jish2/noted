@@ -1,5 +1,5 @@
 ---
-updated: 2025-10-03T14:39
+updated: 2025-10-29T14:01
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -23,6 +23,7 @@ collection of links, videos, articles, books, resources that i found cool!
 | [How I run a company with ADHD](https://www.andrewaskins.com/how-i-run-a-company-with-adhd/)                                            | productivity  |
 | [The Ambiguous Zone - Ben Northrop](https://www.bennorthrop.com/Essays/2023/the-ambiguous-zone.php)                                     | productivity  |
 | [What Are Transaction Tokens? Comparing Them to Phantom Tokens](https://curity.io/blog/transaction-tokens-new-phantom-tokens/)          | auth          |
+| [Policy-Based Access Control (PBAC) Isn’t as Great as You Think](https://www.permit.io/blog/policy-based-access-control-pbac-isnt-as-great-as-you-think)                           | auth          |
 
 ### books
 
