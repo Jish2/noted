@@ -26,7 +26,8 @@ collection of links, videos, articles, books, resources that i found cool!
 | [Policy-Based Access Control (PBAC) Isn’t as Great as You Think](https://www.permit.io/blog/policy-based-access-control-pbac-isnt-as-great-as-you-think)                                                                                                 | auth                |
 | [Semantic search in iMessage, iMessage Wrapped, and AI conversations \| JonLuca's Blog](https://blog.jonlu.ca/posts/mimessage?ref=gh)                                                                                                                    | productivity        |
 | [My data, your LLM — paranoid analysis of iMessage chats with OpenAI, LlamaIndex & DuckDB \| by Simon Aubury \| Medium](https://simon-aubury.medium.com/my-data-your-llm-paranoid-analysis-of-imessage-chats-with-openai-llamaindex-duckdb-60e5eb9e23e3) |                     |
-| [IMCore Documentation \| BlueBubbles Private API](https://docs.bluebubbles.app/private-api/imcore-documentation)                                                                                                                                         | reverse-engineering |
+| [IMCore Documentation \| BlueBubbles Private API](https://docs.bluebubbles.app/private-api/imcore-documentation)<br>                                                                                                                                     | reverse-engineering |
+| [You can convert a Mac Mini into a NAS, and it's not even that bad](https://www.xda-developers.com/you-can-convert-a-mac-mini/)                                                                                                                                                                        | home-lab            |
 
 ### books
 
