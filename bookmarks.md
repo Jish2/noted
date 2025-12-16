@@ -1,5 +1,5 @@
 ---
-updated: 2025-12-04T11:25
+updated: 2025-12-16T13:44
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -27,7 +27,9 @@ collection of links, videos, articles, books, resources that i found cool!
 | [Semantic search in iMessage, iMessage Wrapped, and AI conversations \| JonLuca's Blog](https://blog.jonlu.ca/posts/mimessage?ref=gh)                                                                                                                    | productivity        |
 | [My data, your LLM — paranoid analysis of iMessage chats with OpenAI, LlamaIndex & DuckDB \| by Simon Aubury \| Medium](https://simon-aubury.medium.com/my-data-your-llm-paranoid-analysis-of-imessage-chats-with-openai-llamaindex-duckdb-60e5eb9e23e3) |                     |
 | [IMCore Documentation \| BlueBubbles Private API](https://docs.bluebubbles.app/private-api/imcore-documentation)<br>                                                                                                                                     | reverse-engineering |
-| [You can convert a Mac Mini into a NAS, and it's not even that bad](https://www.xda-developers.com/you-can-convert-a-mac-mini/)                                                                                                                                                                        | home-lab            |
+| [You can convert a Mac Mini into a NAS, and it's not even that bad](https://www.xda-developers.com/you-can-convert-a-mac-mini/)                                                                                                                          | home-lab            |
+| [The Unwritten Rules to Becoming a Senior Developer: 4 Steps to Level Up \| by Brian Jenney \| Medium](https://brianjenney.medium.com/the-unwritten-rules-to-becoming-a-senior-developer-4-steps-to-level-up-0113531a7ba0)                               | career              |
+| [Top Distributed Databases](https://risingwave.com/blog/top-distributed-databases-2024-edition-find-the-best-database-solutions/)                                                                                                                        | system-design       |
 
 ### books
 
