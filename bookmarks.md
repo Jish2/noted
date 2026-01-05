@@ -1,4 +1,189 @@
 ---
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+updated: 2026-01-05T14:34
+created: 2025-08-11T11:39
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$---
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+updated: 2025-09-30T18:20
+created: 2025-08-11T11:39
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$---
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+updated: 2025-09-30T18:20
+created: 2025-08-11T11:39
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$---
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+updated: 2025-09-30T18:20
+created: 2025-08-11T11:39
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$---
+link: https://leetcode.com/problems/
+difficulty: easy medium hard
+expertise: 10
+updated: 2025-09-30T18:20
+created: 2025-08-11T11:39
+---
+#lc #dsa/
+```dataviewjs
+const obj = dv.current().file;
+
+const link = obj.frontmatter["link"];
+const name = obj.name;
+const res = `[${name}](${link})`
+
+dv.header(3, res);
+```
+# problem
+
+
+# trick
+## one liner
+
+## data structure / algorithm
+
+
+# solution
+### time complexity: $O(n)$, space: $O(n)$
+```python
+def solution():
+  pass
+```
+
+# alternate solution
+### time complexity: $O(n)$, space: $O(n)$
+
+# naive solution
+### time complexity: $O(n^2)$, space: $O(n^2)$https://github.com/vercel/aihttps://github.com/vercel/aihttps://github.com/vercel/ai---
 updated: 2025-12-27T16:01
 created: 2025-05-20T15:31
 hide:
