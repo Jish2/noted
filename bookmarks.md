@@ -1,9 +1,5 @@
 ---
-<<<<<<< HEAD
-updated: 2026-01-07T19:34
-=======
-updated: 2026-01-09T11:21
->>>>>>> 073163bbce34099d34a3be809a7b92302e6fb7d3
+updated: 2026-01-14T15:32
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -35,5 +31,5 @@ collection of links, videos, articles, books, resources that i found cool!
 | [The Unwritten Rules to Becoming a Senior Developer: 4 Steps to Level Up \| by Brian Jenney \| Medium](https://brianjenney.medium.com/the-unwritten-rules-to-becoming-a-senior-developer-4-steps-to-level-up-0113531a7ba0)                               | career              |
 | [Top Distributed Databases](https://risingwave.com/blog/top-distributed-databases-2024-edition-find-the-best-database-solutions/)                                                                                                                        | system-design       |
 | [Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)                                                                                   | databases           |
-| [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)                                                                                                                                                                   | cloud               |
+| [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)                                                                                                                                                    | cloud               |
 |                                                                                                                                                                                                                                                          |                     |
