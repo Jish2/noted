@@ -1,5 +1,5 @@
 ---
-updated: 2026-01-14T15:32
+updated: 2026-04-27T14:48
 created: 2025-05-20T15:31
 hide:
   - ContentMeta
@@ -32,4 +32,4 @@ collection of links, videos, articles, books, resources that i found cool!
 | [Top Distributed Databases](https://risingwave.com/blog/top-distributed-databases-2024-edition-find-the-best-database-solutions/)                                                                                                                        | system-design       |
 | [Databases in 2025: A Year in Review // Blog // Andy Pavlo - Carnegie Mellon University](https://www.cs.cmu.edu/~pavlo/blog/2026/01/2025-databases-retrospective.html)                                                                                   | databases           |
 | [Cloud Computing without Containers](https://blog.cloudflare.com/cloud-computing-without-containers/)                                                                                                                                                    | cloud               |
-|                                                                                                                                                                                                                                                          |                     |
+| [Why do we need HTTPS? - How HTTPS works](https://howhttps.works/why-do-we-need-https/)                                                                                                                                                                  | https               |
